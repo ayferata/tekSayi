@@ -11,6 +11,7 @@ public class Main {
                 while(number%2==0){
                     if(number%4==0){
                         sum=sum+number;
+                        
                     }
                     System.out.println("Bir sayı giriniz: ");
                     number=tursu.nextInt();
