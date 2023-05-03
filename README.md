@@ -15,6 +15,7 @@ public class Main {
                     }
                     System.out.println("Bir sayı giriniz: ");
                     number=tursu.nextInt();
+                    
                 }
                 System.out.println("Toplam: " + sum);
     }
