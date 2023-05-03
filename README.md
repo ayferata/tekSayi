@@ -1,7 +1,7 @@
 # tekSayi
 import java.util.Scanner;
 public class Main {
-    //4 ün katlarını topla. Tek sayı girerse programı bitir.
+
     public static void main(String[] args) {
             Scanner tursu = new Scanner(System.in);
             int number,sum=0;
